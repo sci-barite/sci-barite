@@ -5,7 +5,7 @@
 - 👀 I'm also interested in...
   - 📖 Fiction reading and writing (mainly fantasy and sci-fi) 
   - 🕹️ Playing Dungeons & Dragons, Magic: The Gathering, Civilization, and retro games
-  - 💗 My lovely wife and daughter!
+  - 💗 More than anything, my beloved daughter, wife, and extended family!
 
 - 📫 How to reach me: here, or at sybarith.r at g mail
 
