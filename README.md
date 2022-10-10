@@ -2,10 +2,11 @@
 - 👨‍💻 I’m developing productivity automations, mainly via Google Apps Script and Chrome Extensions
 - 🌱 I’m currently learning JavaScript, TypeScript, Google Apps Script, and async programming
 - 💞️ I’m looking to collaborate on... Nothing, got enough to do with my own stuff!
-- 👀 I'm also interested in
+- 👀 I'm also interested in...
   - 📖 Fiction reading and writing (mainly fantasy and sci-fi) 
   - 🕹️ Playing Dungeons & Dragons, Magic: The Gathering, Civilization, and retro games
   - 💗 My lovely wife and daughter!
+
 - 📫 How to reach me: here, or at sybarith.r at g mail
 
 <!---
